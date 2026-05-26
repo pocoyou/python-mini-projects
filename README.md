@@ -1,4 +1,4 @@
-# quiz-game
+# README!
 testing things outttttt
 
 these are taken mostly from https://youtu.be/NpmFbWO6HPU?si=3_AqwHH8BICdE09q 
